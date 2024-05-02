@@ -26,7 +26,7 @@ export default function Home() {
       </p>
 
 
-      <p className={`pt-6 ${staat.className}`}>
+      <p className={`pt-6 italic ${staat.className}`}>
       ædificemus mundos
       </p>
 
