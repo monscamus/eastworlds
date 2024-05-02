@@ -15,7 +15,7 @@ export default function Home() {
       <p className={`pt-12 mt-14 ${staat.className}`}>
       Eastworlds is the east of England world-building forum. We welcome people from across all genres
       including science fiction, fantasy, history, horror and many others. If you don&apos;t live in the east or even in the 
-      UK still get in touch. Our events are set in the East but we love to discuss world building with as many and as diverse 
+      UK still get in touch. Our events are set in the East but we love to discuss world-building with as many and as diverse 
       a group as we possibly can.
       </p>
 
@@ -25,7 +25,7 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you want to get involved or link your society to ours, get in touch here: <a href="mailto:eastworlds@TESTING.org">eastworlds@TEWSTING.org</a> .
+        If you want to get involved or link your society to ours, get in touch with Oli here: <a href="mailto:eastworlds@TESTING.org">eastworlds@TEWSTING.org</a> .
       </p>
 
 
