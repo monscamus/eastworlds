@@ -13,15 +13,16 @@ export default function Home() {
     <main className="flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white">
       <h1 className={`sam-title text-3xl ${staat.className}`}>Fade to Sam Weinle</h1>
       <p className={`pt-12 mt-14 ${staat.className}`}>
-        Editor, content maker and story teller, Sam Weinle is an alumni of Norwich University of Arts.
+      Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others. If you don't live in the east or even in the UK - still get in touch. Our events are set in the East but we love to discuss world building with as many and as diverse a group as we possibly can.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        His projects include fashion brands, film, social media content and egaming marketing.
+        Eastworlds acts as an ecumenical council for groups like the BSFA, BFS, Mythohistorical Society, The Tolkien Society and many others. We
+        promote these groups world building events and talk about what they can learn from each other.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you need help assembling, rough cutting, colour grading or getting to the final cut - Sam can help.
+        If you want to get involved or link your society to ours, get in touch here: .
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
@@ -29,10 +30,10 @@ export default function Home() {
         see his <Link target="_linktree" href="https://linktr.ee/weirdodotexe">LinkTree <span className="text-blue-200">here</span></Link>.
       </p>
       <Seo
-        title="Sam Weinle"
-        description="Videographer, content creator, editor."
-        socialTitle="Sam Weinle - Video Editor"
-        socialDescription="Making mendatious moving images."
+        title="Eastworlds"
+        description="Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others."
+        socialTitle="Eastworlds - The World Building Society"
+        socialDescription="Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others. If you don't live in the east or even in the UK - still get in touch. Our events are set in the East but we love to discuss world building with as many and as diverse a group as we possibly can."
         socialImage={"/logo.jpg"}
       />
     </main>

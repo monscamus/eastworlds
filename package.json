@@ -1,6 +1,6 @@
 {
-  "name": "bee-orchid",
-  "version": "0.1.1",
+  "name": "eastworlds",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
