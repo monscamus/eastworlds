@@ -25,7 +25,7 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you want to get involved or link your society to ours, get in touch with Oli here: <a href="mailto:eastworlds@TESTING.org">eastworlds@TEWSTING.org</a> .
+        If you want to get involved or link your society to ours, get in touch with Oli here: <a href="mailto:eastworlds@arditi.org">eastworlds@arditi.org</a> .
       </p>
 
 
