@@ -31,7 +31,7 @@ export default function RootLayout({
       
       <main
           className={`flex min-h-screen flex-col place-items-center ${oswald.variable} font-sans`}
-        >
+        > 
           <div className="max-w-2xl lg:text-xl font-light px-8 bg-green-900/60 text-black">{children}</div>
         </main>
       </body>
