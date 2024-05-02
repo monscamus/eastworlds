@@ -11,7 +11,7 @@ const staat = Playfair({
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white">
-      <h1 className={`sam-title text-3xl ${staat.className}`}>Fade to Sam Weinle</h1>
+      <h1 className={`sam-title text-3xl ${staat.className}`}>EASTWORLDS</h1>
       <p className={`pt-12 mt-14 ${staat.className}`}>
       Eastworlds is the east of England world-building forum. We welcome people from across all genres
       including science fiction, fantasy, history, horror and many others. If you don&apos;t live in the east or even in the 
@@ -25,7 +25,7 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you want to get involved or link your society to ours, get in touch here: .
+        If you want to get involved or link your society to ours, get in touch here: <a href="mailto:eastworlds@arditi.org">eastworlds@arditi.org</a> .
       </p>
 
 

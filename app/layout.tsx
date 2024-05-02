@@ -4,20 +4,20 @@ import type { Metadata } from "next";
 import { GoogleTagManager } from '@next/third-parties/google'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.samweinle.com/'),
-  title: "Sam Weinle",
-  description: "Video editor extraordinaire.",
+  metadataBase: new URL('https://www.eastworlds.org/'),
+  title: "Eastworlds",
+  description: "The World-Building Society for the East of England.",
   openGraph: {
     type: "profile",
-    title: "The Pollutant Speaks",
-    description: "Video editor extraordinaire.",
+    title: "Eastworlds",
+    description: "The World-Building Society for the East of England.",
   },
   twitter: {
     card:"summary_large_image",
-    title: "Sam Weinle",
-    description: "Samuel Weinle, video editor extraordinaire."
+    title: "Eastworlds",
+    description: "The World-Building Society for the East of England."
   },
-  publisher: "Sam Weinle"            
+  publisher: "Alex Weinle"            
 };
 
 export default function RootLayout({
@@ -27,7 +27,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">     
-      <body className="bg-fixed bg-cover bg-clip-border bg-sam-editor bg-origin-border bg-right-top">
+      <body className="bg-fixed bg-cover bg-clip-border bg-eastworlds bg-origin-border bg-right-top">
       
       <main
           className={`flex min-h-screen flex-col place-items-center ${oswald.variable} font-sans`}
