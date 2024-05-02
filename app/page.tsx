@@ -20,8 +20,8 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        Eastworlds acts as an ecumenical council for groups like the BSFA, BFS, Mythohistorical Society, Anglia Ruskin university, UEA, Cambridge Univeristy, 
-        The Tolkien Society, University of Suffolk and many others. We promote these groups world building events and talk about what they can learn from each other.
+        Eastworlds acts as an ecumenical council for groups like the BSFA, BFS, Mythohistorical Society, Anglia Ruskin University, UEA, Cambridge Univeristy, 
+        The Tolkien Society, University of Suffolk and many others. We promote these groups&apos; world=building events and talk about what they can learn from each other.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
