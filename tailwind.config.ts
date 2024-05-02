@@ -17,7 +17,7 @@ const config: Config = {
         'serif': ['var(--font-orbitron)'],
       },
       backgroundImage: {
-        'sam-editor': "url('/background.jpg')"
+        'eastworlds': "url('/background.jpg')"
       },
     },
   },
