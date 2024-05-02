@@ -1,9 +1,9 @@
 import Seo from "@/components/Seo";
 import  Link  from "next/link";
-import { Raleway } from 'next/font/google'
+import { Jura } from 'next/font/google'
 
 // If loading a variable font, you don't need to specify the font weight
-const staat = Raleway({
+const staat = Jura({
   subsets: ['latin'],
   weight: "700",
   display: 'swap',
@@ -29,7 +29,7 @@ export default function Home() {
       </p>
 
 
-      <p className={`pt-6 italic ${staat.className}`}>
+      <p className={`pt-6 italic text-xl ${staat.className}`}>
       ædificemus mundos
       </p>
 
