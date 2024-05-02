@@ -36,7 +36,7 @@ export default function Home() {
       
 
       <p className={`pt-6 ${staat.className}`}>
-        Contact Alex Cochran on <Link target="_insta" href="https://linktr.ee/alexcochranwriter">Instagram or Twitter</Link>.
+        Contact Alex Cochran on <Link target="_insta" href="https://linktr.ee/alexcochranwriter">Instagram or Bluesky</Link>.
       </p>
       <Seo
         title="Eastworlds"
