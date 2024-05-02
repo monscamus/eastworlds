@@ -3,7 +3,7 @@ import  Link  from "next/link";
 import { Courier_Prime, Playfair, Raleway } from 'next/font/google'
 
 // If loading a variable font, you don't need to specify the font weight
-const staat = Courier_Prime({
+const staat = Playfair({
   subsets: ['latin'],
   weight: "700",
   display: 'swap',
@@ -24,6 +24,13 @@ export default function Home() {
       <p className={`pt-6 ${staat.className}`}>
         If you want to get involved or link your society to ours, get in touch here: .
       </p>
+
+
+      <p className={`pt-6 ${staat.className}`}>
+      ædificemus mundos
+      </p>
+
+      
 
       <p className={`pt-6 ${staat.className}`}>
         Contact him on <Link target="_insta" href="https://www.instagram.com/sam.weinle/">Instagram <span className="text-blue-200">@sam.weinle</span></Link> or
