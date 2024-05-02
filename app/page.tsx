@@ -1,9 +1,9 @@
 import Seo from "@/components/Seo";
 import  Link  from "next/link";
-import { Courier_Prime, Playfair, Raleway } from 'next/font/google'
+import { Raleway } from 'next/font/google'
 
 // If loading a variable font, you don't need to specify the font weight
-const staat = Playfair({
+const staat = Raleway({
   subsets: ['latin'],
   weight: "700",
   display: 'swap',
