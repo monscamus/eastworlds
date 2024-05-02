@@ -11,7 +11,7 @@ const staat = Jura({
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white">
-      <h1 className={`sam-title text-3xl ${staat.className}`}>EASTWORLDS</h1>
+      <h1 className={`sam-title text-5xl ${staat.className}`}>EASTWORLDS</h1>
       <p className={`pt-12 mt-14 ${staat.className}`}>
       Eastworlds is the east of England world-building forum. We welcome people from across all genres
       including science fiction, fantasy, history, horror and many others. If you don&apos;t live in the east or even in the 
