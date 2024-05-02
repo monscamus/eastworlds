@@ -13,12 +13,15 @@ export default function Home() {
     <main className="flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white">
       <h1 className={`sam-title text-3xl ${staat.className}`}>Fade to Sam Weinle</h1>
       <p className={`pt-12 mt-14 ${staat.className}`}>
-      Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others. If you don't live in the east or even in the UK - still get in touch. Our events are set in the East but we love to discuss world building with as many and as diverse a group as we possibly can.
+      Eastworlds is the east of England world-building forum. We welcome people from across all genres
+      including science fiction, fantasy, history, horror and many others. If you don&apos;t live in the east or even in the 
+      UK still get in touch. Our events are set in the East but we love to discuss world building with as many and as diverse 
+      a group as we possibly can.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        Eastworlds acts as an ecumenical council for groups like the BSFA, BFS, Mythohistorical Society, The Tolkien Society and many others. We
-        promote these groups world building events and talk about what they can learn from each other.
+        Eastworlds acts as an ecumenical council for groups like the BSFA, BFS, Mythohistorical Society, Anglia Ruskin university, UEA, Cambridge Univeristy, 
+        The Tolkien Society and many others. We promote these groups world building events and talk about what they can learn from each other.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
