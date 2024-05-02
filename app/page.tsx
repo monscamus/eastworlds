@@ -25,7 +25,7 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you want to get involved or link your society to ours, get in touch here: <a href="mailto:eastworlds@arditi.org">eastworlds@arditi.org</a> .
+        If you want to get involved or link your society to ours, get in touch here: <a href="mailto:eastworlds@TESTING.org">eastworlds@TEWSTING.org</a> .
       </p>
 
 
@@ -36,8 +36,7 @@ export default function Home() {
       
 
       <p className={`pt-6 ${staat.className}`}>
-        Contact him on <Link target="_insta" href="https://www.instagram.com/sam.weinle/">Instagram <span className="text-blue-200">@sam.weinle</span></Link> or
-        see his <Link target="_linktree" href="https://linktr.ee/weirdodotexe">LinkTree <span className="text-blue-200">here</span></Link>.
+        Contact Alex Cochran on <Link target="_insta" href="https://linktr.ee/alexcochranwriter">Instagram or Twitter</Link>.
       </p>
       <Seo
         title="Eastworlds"
