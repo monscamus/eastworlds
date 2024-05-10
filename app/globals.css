@@ -39,6 +39,10 @@ p {
   text-decoration: underline;
 }
 
+a {
+  color: rgb(230, 249, 255);
+  text-decoration: underline;
+}
 .sam-title {
   opacity: 0;
   position: absolute;
