@@ -39,7 +39,7 @@ export default async function Home() {
       &ldquo;ædificemus mundos&rdquo;
       </p>
       
-      <section className={`absolute right-0 bg-red-500 p-4 ${staat.className}`}>
+      <section className={`xl:absolute right-0 bg-red-500 p-4 ${staat.className}`}>
         <h2>Worldlings</h2>
         <ul>
         {allPostsData.map(({ id, date, title }: any) => (
