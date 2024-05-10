@@ -34,7 +34,12 @@ export default async function Page({ params }: { params: { slug: string } }) {
   return (
     <main className={`flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white ${staat.className}`}>
       <h1 className={`text-3xl`}>{matterResult.data.title}</h1>
-      <ReactMarkdown>{matterResult.content}</ReactMarkdown>
+      <ReactMarkdown components={{
+        img(props) {
+          const {node, ...rest} = props
+          return <img style={{float: 'right', padding: '2px'}} {...rest} />
+        }
+      }}>{matterResult.content}</ReactMarkdown>
       <Seo
         title="Eastworlds"
         description="Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others."
