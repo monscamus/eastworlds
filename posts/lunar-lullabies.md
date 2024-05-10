@@ -1,5 +1,6 @@
 ---
 title: 'Lunar Lullabies'
+type: 'EVENT'
 date: '2024-05-10'
 ---
 
