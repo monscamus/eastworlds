@@ -6,7 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { getSortedPostsData } from '../../../lib/posts';
-
+import ReactMarkdown from "react-markdown";
 const postsDirectory = path.join(process.cwd(), 'posts');
 
 // If loading a variable font, you don't need to specify the font weight
@@ -32,10 +32,9 @@ export default async function Page({ params }: { params: { slug: string } }) {
   const matterResult = matter(fileContents);
 
   return (
-    <main className="flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white">
-      <h1 className={`text-3xl ${staat.className}`}>{matterResult.data.title}</h1>
-      {matterResult.content}
-
+    <main className={`flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white ${staat.className}`}>
+      <h1 className={`text-3xl`}>{matterResult.data.title}</h1>
+      <ReactMarkdown>{matterResult.content}</ReactMarkdown>
       <Seo
         title="Eastworlds"
         description="Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others."
