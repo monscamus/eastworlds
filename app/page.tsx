@@ -39,16 +39,12 @@ export default async function Home() {
       &ldquo;ædificemus mundos&rdquo;
       </p>
       
-      <section className={``}>
-        <h2>Blogs</h2>
+      <section className={`absolute right-0 bg-red-500 p-4 ${staat.className}`}>
+        <h2>Worldlings</h2>
         <ul>
         {allPostsData.map(({ id, date, title }: any) => (
             <li key={id}>
-              {title}
-              <br />
-              {id}
-              <br />
-              {date}
+              <Link className="hover:text-red-200" href={`posts/${id}`}>{title} {date}</Link>
             </li>
           ))}
           

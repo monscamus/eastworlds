@@ -3,6 +3,8 @@ title: 'Lunar Lullabies'
 date: '2024-05-10'
 ---
 
+EVENT from the incredible Jackie Burns!
+
 The exhibition, Lunar Lullabies, opens on Saturday 8th June from 10.30am.  Firstsite has organised a number of mini activities between noon and 4pm.  I don’t know what’s been organised other than the local astronomy group, Tiptree Stargazers, will be there with their solar scopes (yes, that’s plural), so fingers crossed for good weather.   Oh, yes, I forgot, I’ll also be giving a 15minute talk about aerospace art in general and my work in particular.  
 
 There will be three other UK members of the International Association of Astronomical Artists exhibiting and I know them - absolutely stunning work. There will also be three or four other UK artists where aerospace figures strongly in their work, but I don’t know them so it will be as much of a delightful surprise to me as it will be to you.  
