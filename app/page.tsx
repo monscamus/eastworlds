@@ -51,6 +51,9 @@ export default async function Home() {
         </ul>
       </section>
 
+      <small>Photo by <a href="https://unsplash.com/@dizzyd718?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Drew Dizzy Graham</a> on <a href="https://unsplash.com/photos/person-kneeling-inside-building-s4dfrh7hdDU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  </small>
+
       
       
 
