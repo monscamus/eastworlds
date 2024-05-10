@@ -1,19 +1,23 @@
+import * as React from 'react'
 import Seo from "@/components/Seo";
 import  Link  from "next/link";
 import { Jura } from 'next/font/google'
+import { getSortedPostsData } from '../lib/posts';
 
 // If loading a variable font, you don't need to specify the font weight
 const staat = Jura({
   subsets: ['latin'],
-  weight: "700",
+  weight: "500",
   display: 'swap',
 })
-export default function Home() {
+
+export default async function Home() {
+  const allPostsData = getSortedPostsData();
   return (
     <main className="flex min-h-screen flex-col place-items-center gap-4 pt-20 text-white">
       <h1 className={`sam-title text-5xl ${staat.className}`}>EASTWORLDS</h1>
       <p className={`pt-12 mt-14 ${staat.className}`}>
-      <i>Hey, are you a fan or maker of imagined worlds in books, games or movies? Welcome to Eastworlds!</i> For folks from across all genres
+      <b>Hey, are you a fan or maker of imagined worlds in books, games or movies? Welcome to Eastworlds!</b> For folks from across all genres
       including science fiction, fantasy, history, horror, romantasy, solarpunk and many others. We&apos;re based in the east of England (hence Eastworlds) 
       but we love to discuss world-building with as many and as diverse a bunch as we possibly can.
       </p>
@@ -26,19 +30,34 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you want to get involved or link your society to ours, get in touch with Oli here: <a href="mailto:eastworlds@arditi.org">eastworlds@arditi.org</a> .
+        If you want to get involved or link your society to ours, get in touch with Oli here: <a href="mailto:eastworlds@arditi.org">eastworlds@arditi.org</a>.
+        Contact Alex Cochran on <Link target="_insta" href="https://linktr.ee/alexcochranwriter">Instagram or Bluesky</Link>.
       </p>
 
 
       <p className={`pt-6 italic text-xl ${staat.className}`}>
       &ldquo;ædificemus mundos&rdquo;
       </p>
+      
+      <section className={``}>
+        <h2>Blogs</h2>
+        <ul>
+        {allPostsData.map(({ id, date, title }: any) => (
+            <li key={id}>
+              {title}
+              <br />
+              {id}
+              <br />
+              {date}
+            </li>
+          ))}
+          
+        </ul>
+      </section>
 
       
+      
 
-      <p className={`pt-6 ${staat.className}`}>
-        Contact Alex Cochran on <Link target="_insta" href="https://linktr.ee/alexcochranwriter">Instagram or Bluesky</Link>.
-      </p>
       <Seo
         title="Eastworlds"
         description="Eastworlds is the east of England world-building forum. We welcome people from across all genres including science fiction, fantasy, history, horror and many others."
