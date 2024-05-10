@@ -14,8 +14,8 @@ export default function Home() {
       <h1 className={`sam-title text-5xl ${staat.className}`}>EASTWORLDS</h1>
       <p className={`pt-12 mt-14 ${staat.className}`}>
       <i>Hey, are you a fan or maker of imagined worlds in books, games or movies? Welcome to Eastworlds!</i> For folks from across all genres
-      including science fiction, fantasy, history, horror, romantasy, solarpunk and many others. We&apos;re based in the east of England (hence Eastworlds) or even in the 
-      UK, but we love to discuss world-building with as many and as diverse a bunch as we possibly can.
+      including science fiction, fantasy, history, horror, romantasy, solarpunk and many others. We&apos;re based in the east of England (hence Eastworlds) 
+      but we love to discuss world-building with as many and as diverse a bunch as we possibly can.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
