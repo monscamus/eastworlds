@@ -9,11 +9,7 @@ date: '2024-07-18'
 
 ![Meet at the Moon, Science Fiction Vs Fantasy or Does Scantasy exist?](/images/meetatthemoon2.jpg)
 In its role as the arbiter of world-building genres, Eastworlders will host a tongue-in-cheek battle of the titans: Science
-Fiction versus Fantasy. 
-
-SF was first: therefore it's the mother of fantasy. It's more demanding, after all *anything* can be fantasy. 
-
-Fantasy sells more books: democractically, it's better. (Also Scalzi says SF is just a subset of Fantasy.)
+Fiction versus Fantasy. SF was first: therefore it's the mother of fantasy. It's more demanding, after all *anything* can be fantasy. Fantasy sells more books: democractically, it's better. (Also Scalzi says SF is just a subset of Fantasy.)
 
 Just add a map in the front, that's fantasy.
 

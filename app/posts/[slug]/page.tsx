@@ -37,7 +37,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
       <ReactMarkdown components={{
         img(props) {
           const {node, ...rest} = props
-          return <img style={{float: 'inline-end', padding: '2px'}} {...rest} />
+          return <img style={{float: 'right', padding: '2px'}} {...rest} />
         }
       }}>{matterResult.content}</ReactMarkdown>
       <Seo
