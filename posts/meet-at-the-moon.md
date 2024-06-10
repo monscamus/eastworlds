@@ -25,7 +25,7 @@ Can we throw more petrol on the genre bonfire? We get together in Cambridge for 
 - Cyberpunk evolution of pixies, ogres and angels
 
 # Want to come?
-Great, just turn up, but it would be helpful if you let [Alex Cochran]("https://linktr.ee/alexcochranwriter) know you're coming so we can ensure there will be enough seats at the Blue Moon. Maybe indicate which side you might be rooting for? Feel free to begin the tussle online on BSFA Discord or BlueSky.
+Great, just turn up, but it would be helpful if you let [Alex Cochran](https://linktr.ee/alexcochranwriter"Get in touch with Alex Cochran") know you're coming so we can ensure there will be enough seats at the Blue Moon. Maybe indicate which side you might be rooting for? Feel free to begin the tussle online on BSFA Discord or BlueSky.
 
 
 [Home]("/")
