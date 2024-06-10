@@ -9,7 +9,13 @@ date: '2024-07-18'
 In its role as the arbiter of world-building genres, Eastworlds will host a tongue-in-cheek battle of the titans: Science
 Fiction versus Fantasy. 
 
-Is it that simple or can we throw some more petrol on the genre bonfire? We get together in Cambridge for a face off between the BSFA (British Science Fiction Society) and the BFS (British Fantasy Society). We'll be at the [Blue Moon pub](https://cambridge.pub/blue-moon/) for some good natured talk-off about SF worlds vs Fantasy worlds, and the rules for worldbuilding in each (if there really even are any). 
+SF was first: therefore its the daddy. 
+
+Fantasy sells more book: democracy in action its better. 
+
+Can we throw more petrol on the genre bonfire? We get together in Cambridge for a face off between the BSFA (British Science Fiction Society) and the BFS (British Fantasy Society). We'll be at the [Blue Moon pub](https://cambridge.pub/blue-moon/) for some good natured talk-off about SF worlds vs Fantasy worlds, and the rules for worldbuilding in each (if there really even are any). 
+
+(If you're in any doubt most people attending will be ardent supporters of both but there's no harm in a little rap-style shade throwing. After all SF may not even be in the top 3 of genres...)
 
 # Some ideas already thrown in the pit:
 - Gene Wolfe's Book of the New Sun
