@@ -1,11 +1,12 @@
 ---
 title: 'Lunar Lullabies'
 type: 'EVENT'
-date: '2024-05-10'
+date: '2024-06-08'
 ---
 
 # EVENT from the incredible [Jackie Burns](https://twitter.com/ArtistBurns)!
 
+Update: We had a great time at Firstsite and then a some wonderful beer tasting around the pubs of Colchester.
 
 ![Jackie Burns, artist](/jackieburns.jpg) The exhibition, Lunar Lullabies, opens on Saturday 8th June from 10.30am.  Firstsite has organised a number of mini activities between noon and 4pm.  I don’t know what’s been organised other than the local astronomy group, Tiptree Stargazers, will be there with their solar scopes (yes, that’s plural), so fingers crossed for good weather.   Oh, yes, I forgot, I’ll also be giving a 15minute talk about aerospace art in general and my work in particular. 	
 
