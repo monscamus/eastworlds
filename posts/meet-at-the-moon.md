@@ -6,7 +6,7 @@ date: '2024-07-18'
 # THE BIG SMACKDOWN - Science Fiction Vs Fantasy!
 
 ![Meet at the Moon, Science Fiction Vs Fantasy or Does Scantasy exist?](/images/meetatthemoon2.jpg)
-In its role as the arbiter of world-building genres, Eastworlds will host a tongue-in-cheek battle of the titans: Science
+In its role as the arbiter of world-building genres, Eastworlders will host a tongue-in-cheek battle of the titans: Science
 Fiction versus Fantasy. 
 
 SF was first: therefore its the daddy. 
