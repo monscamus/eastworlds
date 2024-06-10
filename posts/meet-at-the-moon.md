@@ -5,17 +5,19 @@ date: '2024-07-18'
 ---
 # THE BIG SMACKDOWN - Science Fiction Vs Fantasy!
 
+**Friday 18th of July 2024 6pm onwards.**
+
 ![Meet at the Moon, Science Fiction Vs Fantasy or Does Scantasy exist?](/images/meetatthemoon2.jpg)
 In its role as the arbiter of world-building genres, Eastworlders will host a tongue-in-cheek battle of the titans: Science
 Fiction versus Fantasy. 
 
-SF was first: therefore its the daddy. 
+SF was first: therefore it's the mother of fantasy. It's more demanding, after all *anything* can be fantasy. 
 
-Fantasy sells more book: democracy in action its better. 
+Fantasy sells more books: democractically, its better. (Also Scalzi says SF is just a subset of Fantasy.)
 
 Can we throw more petrol on the genre bonfire? We get together in Cambridge for a face off between the BSFA (British Science Fiction Society) and the BFS (British Fantasy Society). We'll be at the [Blue Moon pub](https://cambridge.pub/blue-moon/) for some good natured talk-off about SF worlds vs Fantasy worlds, and the rules for worldbuilding in each (if there really even are any). 
 
-(If you're in any doubt most people attending will be ardent supporters of both but there's no harm in a little rap-style shade throwing. After all SF may not even be in the top 3 of genres...)
+(*If you're in any doubt most people attending will be ardent supporters of both but there's no harm in a little rap-style shade throwing. After all SF may not even be in the top 3 of genres...*)
 
 # Some ideas already thrown in the pit:
 - Gene Wolfe's Book of the New Sun
