@@ -1,11 +1,11 @@
 ---
 title: 'Meet at the Moon!'
 type: 'EVENT'
-date: '2024-07-18'
+date: '2024-07-19'
 ---
 # THE BIG SMACKDOWN - Science Fiction Vs Fantasy!
 
-**Friday 18th of July 2024 6pm onwards.**
+**Friday 19th of July 2024 6pm onwards.**
 
 ![Meet at the Moon, Science Fiction Vs Fantasy or Does Scantasy exist?](/images/meetatthemoon2.jpg)
 In its role as the arbiter of world-building genres, Eastworlders will host a tongue-in-cheek battle of the titans: Science
